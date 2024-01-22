@@ -1,0 +1,15 @@
+
+Nos vamos a concentrar en los junit tests ya que tenemos los ModeloAgenda, ModeloMascota.. etc implementados
+estos modelos ya pueden ser usados en el resto de la app, empezaremos por el login..
+
+Implementaremos el resto de los junits para el caso de registrar a un duenio, mascota y agenda, cada uno en
+clases distintas (o en solo una clase), si todos estos test pasan o se ejecutan satisfactoriamente, quiere decir que la capa de
+persistencia de nuestra aplicacion se encuentra implementada satisfactoriamente.
+
+Nos vamos a concentrar a crear los servlets: registro de mascota, duenio y agenda
+
+Ahora, crearemos los formularios web para registro mascota, duenio y agenda
+
+Continuacion de los formularios, cuando el registro es exitoso, redirecciona a home
+
+App y test funcionado, falta selenium y cucumber

@@ -1,0 +1,11 @@
+Eclipse / Tomcat:
+https://www.youtube.com/watch?v=j7WDAZouZYc&t=198s
+
+Selenium:
+https://www.youtube.com/watch?v=O5kvqVriJdk
+
+Selenium, cucumber, gherking:
+https://www.youtube.com/watch?v=DnIftl6VpiQ
+
+Eclipse Web:
+https://www.youtube.com/watch?v=M3FW_ihCNWo
